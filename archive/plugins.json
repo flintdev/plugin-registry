@@ -1,0 +1,14 @@
+{
+    "plugins": [
+        {
+            "type": "widget",
+            "id": "material-widgets",
+            "name": "Material Design Widgets",
+            "owner": "flintdev",
+            "repo": "material-widgets",
+            "preinstalled": true,
+            "libraryName": "materialWidgets",
+            "description": "Flint UI widgets with material design"
+        }
+    ]
+}
