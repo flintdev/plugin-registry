@@ -7,8 +7,18 @@
             "owner": "flintdev",
             "repo": "material-widgets",
             "preinstalled": true,
-            "libraryName": "materialWidgets",
+            "libraryName": "material-widgets",
             "description": "Flint UI widgets with material design"
+        },
+        {
+            "type": "widget",
+            "id": "chart-widgets",
+            "name": "Chart.js Widgets",
+            "owner": "flintdev",
+            "repo": "chart-widgets",
+            "preinstalled": false,
+            "libraryName": "chart-widgets",
+            "description": "Flint UI widgets with charts"
         }
     ]
 }
