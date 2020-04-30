@@ -19,6 +19,16 @@
             "preinstalled": false,
             "libraryName": "chart-widgets",
             "description": "Flint UI widgets with charts"
-        }
+        },
+        {
+            "type": "widget",
+            "id": "antd-widgets",
+            "name": "Ant Design Widgets",
+            "owner": "flintdev",
+            "repo": "antd-widgets",
+            "preinstalled": false,
+            "libraryName": "antd-widgets",
+            "description": "Flint UI widgets with ant design"
+        },
     ]
 }
