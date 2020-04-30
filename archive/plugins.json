@@ -29,6 +29,6 @@
             "preinstalled": false,
             "libraryName": "antd-widgets",
             "description": "Flint UI widgets with ant design"
-        },
+        }
     ]
 }
